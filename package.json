@@ -1,5 +1,5 @@
 {
-  "name": "ali-sms",
+  "name": "ali-sms-meteor",
   "version": "1.0.3",
   "description": "nodejs sdk for aliyun sms",
   "main": "index.js",
